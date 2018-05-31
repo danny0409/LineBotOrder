@@ -13,3 +13,5 @@ Maven
 ### Use IDE
 Netbeans (with "NB SpringBoot" plugins)
 
+## QRCode
+![alt text](https://i.imgur.com/8oFV2Bo.png)
