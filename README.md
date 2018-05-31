@@ -14,15 +14,7 @@ menu_text：純文字互動選單
 ## QRCode
 ![alt text](https://i.imgur.com/8oFV2Bo.png)
 
-## Use Line official java sdk
-reference from https://github.com/line/line-bot-sdk-java
+## 執行畫面
+![alt text](https://i.imgur.com/jYLY0iJ.png)
 
-## Use frame work
-Spring Boot
-
-## Build Tool
-Maven
-
-## Develop Tool
-### Use IDE
-Netbeans (with "NB SpringBoot" plugins)
+![alt text](https://i.imgur.com/bLIjwcX.png)
